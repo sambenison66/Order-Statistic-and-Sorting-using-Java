@@ -1,0 +1,2 @@
+# Order-Statistic-and-Sorting-using-Java
+This project is to implement different Order Statistic and Sorting Algorithm techniques with respect to large data sets. A program is also implemented to generate different kinds of data sets like Random Distribution and Normal Distribution, and use the data sets for analyzing the different algorithm techniques. Analysis are made based on the result. This project is done in Java.
